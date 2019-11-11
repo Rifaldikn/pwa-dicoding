@@ -1,0 +1,16 @@
+{
+    "name": "Sakana Frozen Food",
+    "short_name": "Sakana",
+    "description": "Aplikasi untuk submission 1 dicoding PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FB8A5F",
+    "theme_color": "#FB8A5F",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

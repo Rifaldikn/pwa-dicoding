@@ -1,0 +1,44 @@
+nav a {
+  color: #fb8a5f !important;
+}
+
+.nav-wrapper img {
+  padding: 5px;
+}
+
+#about {
+  background-color: #f0f4f7;
+  padding: 10px;
+  min-height: 400px;
+  text-align: center;
+}
+
+.about-img {
+  float: left;
+  margin: auto;
+}
+
+.about-img img {
+  max-width: 100%;
+  height: auto;
+}
+
+.about-description {
+  padding: 10px;
+}
+
+#product .card-image img {
+  object-fit: cover;
+}
+
+#product{
+  padding: 20px;
+}
+
+.container{
+  margin-bottom: 20px;
+}
+
+.contact{
+  margin-bottom: 50px;
+}
